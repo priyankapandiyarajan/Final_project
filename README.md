@@ -3,13 +3,13 @@
 This project detects human faces in photos and videos quickly and accurately. It will work well in different lighting and angles and handle face detection in real time, improving its use in security, identity checks, and user interactions.
 
 ## Skills Take Away From This Project
--- Python
--- Analytics
--- statistics
--- Ploting
--- streamlit
--- machine learning
--- Deep Learning
+- Python
+- Analytics
+- statistics
+- Ploting
+- streamlit
+- machine learning
+- Deep Learning
 
 ## Domain 
 Computer Vision
