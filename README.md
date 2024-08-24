@@ -52,5 +52,6 @@ To run the project locally, follow these steps:
 **Human Faces (Object Detection)**, a dataset for human face detection includes images with annotated bounding boxes around faces. Key components are diverse images with varied lighting, angles, and demographics. Annotations typically consist of bounding box coordinates and optionally facial landmarks. The dataset is split into training, validation, and test sets. Proper data preparation involves cleaning, balancing, and augmenting the dataset to enhance model performance. Data looks like a layman.
 
 ## Video Link
+https://www.linkedin.com/feed/update/urn:li:activity:7233010910137606144/
 
 ## Contributors - Priyanka Pandiyarajan
